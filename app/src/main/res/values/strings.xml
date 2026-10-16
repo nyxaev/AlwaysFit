@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">AlwaysFit IMC</string>
+    <string name="titulo">AlwaysFit</string>
+    <string name="selo">IMC</string>
+    <string name="subtitulo">Ajuste peso e altura e veja o resultado na hora.</string>
+    <string name="peso">Peso</string>
+    <string name="altura">Altura</string>
+    <string name="unidade_kg">kg</string>
+    <string name="unidade_cm">cm</string>
+    <string name="redefinir">Redefinir</string>
+    <string name="seu_imc">SEU IMC</string>
+    <string name="peso_saudavel">Peso saudável para sua altura: %1$s a %2$s kg</string>
+    <string name="aviso">O IMC é uma referência geral e não substitui a avaliação de um profissional de saúde.</string>
+    <string name="desc_diminuir">Diminuir %1$s</string>
+    <string name="desc_aumentar">Aumentar %1$s</string>
+    <string name="desc_imc">IMC %1$s, %2$s</string>
+    <string name="cat_abaixo">Abaixo do peso</string>
+    <string name="cat_normal">Peso normal</string>
+    <string name="cat_sobrepeso">Sobrepeso</string>
+    <string name="cat_ob1">Obesidade grau I</string>
+    <string name="cat_ob2">Obesidade grau II</string>
+    <string name="cat_ob3">Obesidade grau III</string>
+    <string name="msg_abaixo">Seu IMC está abaixo da faixa recomendada. Vale conversar com um profissional de saúde.</string>
+    <string name="msg_normal">Você está na faixa considerada saudável. Continue cuidando da sua rotina.</string>
+    <string name="msg_sobrepeso">Um pouco acima da faixa recomendada. Pequenos hábitos do dia a dia já fazem diferença.</string>
+    <string name="msg_ob1">Acima da faixa recomendada. Um profissional de saúde pode indicar o melhor caminho.</string>
+    <string name="msg_ob2">Bem acima da faixa recomendada. Procure um profissional de saúde para uma avaliação completa.</string>
+    <string name="msg_ob3">Muito acima da faixa recomendada. Procure um profissional de saúde para uma avaliação completa.</string>
+</resources>
